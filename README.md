@@ -14,3 +14,4 @@ Hey there! I'm dramex, a 16-year-old programmer passionate about web development
 Feel free to reach out to me via email at dramex@proton.me or through my GitHub account: [dramex](https://github.com/dramex1dev).
 
 Don't hesitate to contact me for any inquiries or potential collaborations! Let's create something awesome together! 💪
+ [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
