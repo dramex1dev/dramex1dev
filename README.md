@@ -2,12 +2,12 @@
 
 ## About Me
 
-Hey there! I'm dramex, a 16-year-old programmer passionate about web development, game programming, Discord bots, and artificial intelligence. In addition to coding, I enjoy reading and gaming.
+Hey there! I'm dramex, a 16-year-old programmer passionate about web development, game programming, Discord bots, artificial intelligence, and cyber security. In addition to coding, I enjoy reading and gaming.
 
 ## Skills 🛠️
 
 - Programming Languages: JavaScript, Lua, Python
-- Interests: Web development, game programming, Discord bots, artificial intelligence
+- Interests: Web development, game programming, Discord bots, artificial intelligence, cyber security
 
 ## Get in Touch 📬
 
